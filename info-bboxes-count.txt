@@ -1,0 +1,4 @@
+#bboxes per category: signals = 66, markers = 189, cabinets = 136
+average signal dimensions: [5.0, 1.99, 1.99]
+average marker dimensions: [2.5, 0.84, 0.84]
+average cabinet dimensions: [2.01, 1.07, 1.06]
